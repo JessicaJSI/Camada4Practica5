@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 Segundo nombre
 Fernanda es un nombre que llevan las mujeres
 Segundo nombre:
 Fernanda
+=======
+
+Segundo nombre
+
+
+Equipo 10 con Luisa Fernanda
+
+Segundo nombre:
+Fernanda
+
+>>>>>>> facff9aa909e7290749211fb10c538673f2f69d6

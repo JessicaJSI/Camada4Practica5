@@ -2,3 +2,5 @@ Pokemon tipo roca
 Como una serpiente grande
 
 Es de color gris y se encuentra en cuevas
+
+Este pokemon es debil frente a los de agua
